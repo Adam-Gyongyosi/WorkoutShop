@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Grip exerciser",
+        "desc": "Hand and forearm amplifier.",
+        "category": "Accessories",
+        "price": 10,
+        "topSeller": true,
+        "imageName": "img/wrist.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jumprope",
+        "desc": "Build stronger bones, loose weight.",
+        "category": "Accessories",
+        "price": 10,
+        "topSeller": true,
+        "imageName": "img/jumprope.webp"
+    },
+    {
+        "id": 3,
+        "name": "Dumbells",
+        "desc": "Build muscles easily.",
+        "category": "Accessories",
+        "price": 10,
+        "topSeller": true,
+        "imageName": "img/dumbells.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Calcium",
+        "desc": "Protect your bones",
+        "category": "Vitamins",
+        "price": 10,
+        "topSeller": true,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Omega 3-6-9",
+        "desc": "Support your fitness goals.",
+        "category": "Vitamins",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pre-workout capsules",
+        "desc": "Upgrade your workout.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Dummy",
+        "desc": "Text.",
+        "category": "Neutritions",
+        "price": 10,
+        "topSeller": false,
+        "imageName": "img/capsule.jpg"
+    }
+]
